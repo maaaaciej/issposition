@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACE,mCACF,CACA,OACA,iBAAkB,CAClB,aAEA,CAIA,EACE,oBAAqB,CACrB,aAEF","file":"main.3e238839.chunk.css","sourcesContent":["*{\n  font-family: 'Roboto Mono', monospace;\n}\n.title{\ntext-align: center;\ncolor:rgb(219, 219, 219)\n\n}\n\n\n\na{\n  text-decoration: none;\n  color:rgb(226, 185, 185)\n\n}\n\n\n"]}
